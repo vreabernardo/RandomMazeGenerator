@@ -10,9 +10,15 @@ This is a simple maze generator created using Python and Pygame. It generates a 
 Pseudocode:
 
 Choose a starting cell at random and mark it as visited.
+
 While there are unvisited cells:
+
   a. Choose a random neighbor of the current cell that has not been visited.
+  
   b. If all neighbors have been visited or there are no neighbors, backtrack to the previous cell.
+  
   c. Mark the chosen neighbor as visited and remove the wall between the current cell and the chosen neighbor.
+  
   d. Set the chosen neighbor as the current cell.
+
 Done.
