@@ -1,6 +1,6 @@
 # RandomMazeGenerator
 
-This is a simple maze generator created using Python and Pygame. It generates a maze using the Recursive Backtracking algorithm, and the player can watch as the algorithm creates the maze and navigates through the cells until it reaches the end.
+This is a simple maze generator created using Python and Pygame. It generates a maze using the Recursive Backtracking algorithm, and the user can watch as the algorithm creates the maze and navigates through the cells until it reaches the end.
 
 <p align="center">
     <img width=45% src="https://user-images.githubusercontent.com/45080358/219528690-c872c9ed-b7d4-4446-a954-3ddc036a1fce.gif">
